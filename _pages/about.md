@@ -10,6 +10,15 @@ redirect_from:
 HOME
 
 ---
+
+CONTACT INFO
+
+---
+
+Email: connorzarra@vt.edu
+Instagram: @connor.zarra
+More contact info on the left sidebar
+
 Career Goal Narrative:
 
 Ever since middle school, I have had my sights set on the fascinations of technology and engineering. In 8th grade, I took a Computer Science Principles class that introduced both the basics of JavaScript coding and problem-solving. It jump-started my pursuit of engineering and computer sciences and from there, I have attempted to take any classes that would cover these broad topics. I have not narrowed down exactly what I want to do, but I want to major in Computer Engineering and get a job in within this field.

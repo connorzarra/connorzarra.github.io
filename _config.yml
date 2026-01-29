@@ -23,13 +23,13 @@ repository               : "/connorzarra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Connor Zarra"
-  pronouns         : # example: "she/her"  
+  pronouns         :   
   bio              : "Stand on my money I'm 5'4"
   location         : "Earth"
   employer         : "GTMR"
-  uri              : # URL
+  uri              :
   email            : "connorzarra@vt.edu" 
 
   # Academic websites
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "connorzarra"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@connorzarra"
+  instagram        : "@connor.zarra"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
