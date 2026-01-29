@@ -10,3 +10,24 @@
 main:
   # - title: "Personal Information"
   #   url: /personalinfo/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # # - title: "CV"
+  # #   url: /cv-json/
+    
+  # - title: "Guide"
+  #   url: /markdown/
